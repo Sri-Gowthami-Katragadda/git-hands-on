@@ -1,2 +1,3 @@
 # git-hands-on
-practicing github
+Git hands-on practice repository.
+
